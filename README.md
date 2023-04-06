@@ -13,4 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsoojung&show_icons=true&theme=swift)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFF978&height=300&section=footer&text=thank%20you!✨&fontSize=90&animation=twinkling)
