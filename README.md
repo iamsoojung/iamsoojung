@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 > ### 🔨 Tech stack
+> Techs that I've used at least once
 <div> 
  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
