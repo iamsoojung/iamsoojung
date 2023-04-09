@@ -11,9 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=edacb1&height=280&section=header&text=hello👋🏻&fontSize=90&animation=twinkling)
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsoojung&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim01)](https://solved.ac/kim01/) -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsoojung&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 > ### 📈 Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsoojung&show_icons=true&theme=swift)
@@ -58,6 +56,9 @@ You can click the Preview link to take a look at your changes.
 > ### ✨ Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoojung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+
+<!-- > ### 🥈 Ranking
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim01)](https://solved.ac/kim01/)  -->
 
 > ### 📮 How to reach me
 > <a href="mailto:crystar2402@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
