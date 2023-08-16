@@ -57,8 +57,8 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoojung&layout=compact)](https://github.com/iamsoojung/iamsoojung)
 <br/>
 
-<!-- > ### 🥈 Ranking
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim01)](https://solved.ac/kim01/)  -->
+> ### 🥈 Ranking
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim01)](https://solved.ac/kim01/)
 
 > ### 📮 How to reach me
 > <a href="mailto:crystar2402@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
