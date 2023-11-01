@@ -7,7 +7,8 @@
 
    <b>Hello, This is Soojung Kim.</b><br/>
    
-   My goal is to be a backend developer who creates valuable services that can contribute to the world. 🚀<br/>
+   My goal is to be a backend developer who creates valuable services 
+   <br>that can contribute to the world. 🚀<br/>
    
   <br>
 
