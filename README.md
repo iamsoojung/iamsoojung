@@ -20,7 +20,7 @@
   
   ### 🛠 SKILL 🛠
   Techs that I've used at least once
-  
+  <br>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
