@@ -19,6 +19,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoojung&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   <br>
   ### 🛠 SKILL 🛠
+  
   Techs that I've used at least once
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
