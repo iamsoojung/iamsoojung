@@ -16,5 +16,5 @@
 
 <div>
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim01"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoojung&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoojung&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8&exclude_repo=Algorithm_Study"/>
 </div>
