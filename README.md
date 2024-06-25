@@ -18,4 +18,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoojung&layout=compact&hide=Mustache,xslt&theme=dracula&langs_count=8"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsoojung&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsoojung&include_all_commits=true&show_icons=true&theme=dracula)
