@@ -23,7 +23,6 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/iamsoojung"
-  width="600"
-  height="300"
+  width="400"
 />
 </a>
