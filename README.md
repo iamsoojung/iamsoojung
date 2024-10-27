@@ -6,5 +6,4 @@
    
    My goal is to be a backend developer who creates valuable services that can contribute to the world. 🚀<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoojung&layout=compact&hide=Mustache,xslt&langs_count=8"/>
-<img src="https://render.gitanimals.org/farms/iamsoojung" width="400"/>
+<img src="https://render.gitanimals.org/farms/iamsoojung" width="500"/>
