@@ -6,4 +6,4 @@
    
    My goal is to be a backend developer who creates valuable services that can contribute to the world. 🚀<br/>
 
-<img src="https://render.gitanimals.org/farms/iamsoojung" width="500"/>
+<img src="https://render.gitanimals.org/farms/iamsoojung" width="400"/>
